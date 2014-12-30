@@ -16,7 +16,7 @@ challenge</a>. The website allows a user to create and delete tasks. This requir
 and delete button. There are two <code>click</code> listeners: one for creating a new task,
 another one for completing a task. </p>
 
-<pre>
+<pre><code>
 var createElement = function() {
   var text = $(&#x22;#todo-create-input&#x22;).val();
   var newElement = &#x22;&#x3C;form class=&#x27;todo-item&#x27;&#x3E;&#x3C;p class=&#x27;todo-text&#x27;&#x3E;&#x22; + text +
@@ -36,7 +36,7 @@ $(document).ready(function(){
   $(&#x22;#todo-create-button&#x22;).on(&#x22;click&#x22;, createElement);
   $(&#x22;.delete-button&#x22;).on(&#x22;click&#x22;, displayCongratulations);
 });
-</pre>
+</code></pre>
 
 <h2>The limitation of $(document).ready()</h2>
 <p>The above code does not work because we are attempting to bind an event listener
