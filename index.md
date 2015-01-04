@@ -18,3 +18,4 @@ tagline: Coding made simple
 <a href="http://globeofblogs.com" target="_blank"> <img
 src="http://globeofblogs.com/buttons/globe_blogs.gif" alt="" width="80"
 height="15"/></a>
+<script type="text/javascript" src="http://counter5.allfreecounter.com/private/counter.js?c=9c753a83be5fd40f894be6e4d5b3ccce"></script>
