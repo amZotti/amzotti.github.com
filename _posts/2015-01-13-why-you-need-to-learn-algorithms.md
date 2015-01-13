@@ -1,17 +1,27 @@
-<h1>Why you need to Learn Algorithms</h1>
+---
+layout: post
+title: "Why you need to learn algorithms"
+description: "Learning algorithms teaches you how to think in unique ways. It
+teaches you different programming patterns besides for loops and if-statements"
+category: "skill acquisition"
+tags: [learning]
+---
+{% include JB/setup %}
+
+<h1>New Questions Create New Results</h1>
 <p>I was in the final stages of creating a JSON parser yesterday and needed help
 with a few aspects of it. I went into an WebDev IRC channel to ask
 questions.
 I asked questions regarding escape characters and someone replied, "What
 are you using this for?". I told this inquisitive user that I am making a JSON parser for learning
 purposes. He replied, <blockquote>"That's stupid, those already exist. I have been a
-developer for eight years and never needed to know that"</blockquote>. I was a little let
+developer for eight years and never needed to know that"</blockquote> I was a little let
 down, but not at all surprised.</p>
 
 <p>This reminded me of a similar experience at Harvard when I took a data
 structures and algorithms class. One student in class remarked that 
 they don't get why they had to learn algorithms. I began thinking,
-<blockquote>"Why DO we need to learn algorithms?"</blockquote>. I began asking
+<blockquote>"Why DO we need to learn algorithms?"</blockquote> I began asking
 this question, and when you ask a question with consistency, you tend to get
 answers with consistency.</p>
 
@@ -20,10 +30,11 @@ answers with consistency.</p>
 computational theory is because it teaches you how
 to think dynamically. When people
 first learn programming syntax they pretty much have a few basic design patterns they use
-over and over again. Usually just lumping a series of for-loops and if
+over and over again. Usually they just keep lumping a series of for-loops and if
 statements together. It's kind of like playing a video game with someone and having
-your opponent just be a 'button masher'. That is, only knowing two moves nad pressing the same button over
-and over that makes them do those moves. When you learn how to build more complex things, many
+your opponent just be a 'button masher'. That is, only knowing two moves and
+keep pressing the same button over
+and over which performs those two moves. When you learn how to build more complex things, many
 times those basic patterns don't work anymore. You can't create QuickSort or
 a JSON parser by arranging a series of for loops and if statements in just the
 right sequence. These challenges require a higher level of thinking. They
