@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "How does NaN work?"
-description: "Why not a number actually IS a number!"
+description: "Why does NaN evaluate to number? How come isNaN(defined) evaluates
+to true? And most importantly: Is not a number a number? Find out the answer to
+all these questions and more..."
 category: "javascript"
 tags: [javascript]
 ---
