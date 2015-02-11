@@ -91,7 +91,7 @@ correctly and set the subclasses constructor property manually on it's
 prototype.</p>
 
 <pre>
-Fruit.call(this, sweetness, freshness, organic);
+Apple.prototype = Object.create(Fruit.prototype);
 Apple.prototype.constructor = Apple
 </pre>
 
