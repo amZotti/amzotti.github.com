@@ -8,6 +8,7 @@ tags: [javascript]
 ---
 {% include JB/setup %}
 
+<h1>Psuedo-classical Inheritence in JavaScript</h1>
 <p><a
 href="http://amzotti.github.io/javascript/2015/02/09/javascript-inheritance-patterns/">Yesterday
 I wrote about how to perform pseudo-classical inheritance</a> and I wanted to
