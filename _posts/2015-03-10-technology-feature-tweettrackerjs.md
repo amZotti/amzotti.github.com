@@ -32,7 +32,7 @@ database and later retrieved to generate a dynamic graph based on user
 input.</p>
 
 <h3>Demo Screenshot</h3>
-<img src="http://i.imgur.com/RwDJXya.png"></img>
+<img style='width: 700px' src="http://i.imgur.com/RwDJXya.png"/>
 
 <h2>Technologies Used</h2>
   <ul>
