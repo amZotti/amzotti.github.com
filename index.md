@@ -1,7 +1,7 @@
 ---
 layout: page
-title: What is it?
-tagline: Coding made simple
+title: Under the Hood with Anthony Zotti
+tagline: Coding made interesting
 ---
 {% include JB/setup %}
 
